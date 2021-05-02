@@ -1,0 +1,10 @@
+C:\Users\mfabi\Desktop\ferit\1 god DKB\objektno\LV1-izvještaj\zadatak1\zadatak1\bin\Debug\zadatak1.exe.config
+C:\Users\mfabi\Desktop\ferit\1 god DKB\objektno\LV1-izvještaj\zadatak1\zadatak1\bin\Debug\zadatak1.exe
+C:\Users\mfabi\Desktop\ferit\1 god DKB\objektno\LV1-izvještaj\zadatak1\zadatak1\bin\Debug\zadatak1.pdb
+C:\Users\mfabi\Desktop\ferit\1 god DKB\objektno\LV1-izvještaj\zadatak1\zadatak1\obj\Debug\zadatak1.csprojAssemblyReference.cache
+C:\Users\mfabi\Desktop\ferit\1 god DKB\objektno\LV1-izvještaj\zadatak1\zadatak1\obj\Debug\zadatak1.Form1.resources
+C:\Users\mfabi\Desktop\ferit\1 god DKB\objektno\LV1-izvještaj\zadatak1\zadatak1\obj\Debug\zadatak1.Properties.Resources.resources
+C:\Users\mfabi\Desktop\ferit\1 god DKB\objektno\LV1-izvještaj\zadatak1\zadatak1\obj\Debug\zadatak1.csproj.GenerateResource.cache
+C:\Users\mfabi\Desktop\ferit\1 god DKB\objektno\LV1-izvještaj\zadatak1\zadatak1\obj\Debug\zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\mfabi\Desktop\ferit\1 god DKB\objektno\LV1-izvještaj\zadatak1\zadatak1\obj\Debug\zadatak1.exe
+C:\Users\mfabi\Desktop\ferit\1 god DKB\objektno\LV1-izvještaj\zadatak1\zadatak1\obj\Debug\zadatak1.pdb
